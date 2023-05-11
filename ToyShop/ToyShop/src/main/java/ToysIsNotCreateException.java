@@ -15,5 +15,4 @@ public class ToysIsNotCreateException extends Exception{
     }
 
     public String getInfo() {return info;}
-
 }

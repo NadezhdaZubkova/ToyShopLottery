@@ -8,6 +8,7 @@ import java.nio.charset.StandardCharsets;
 import java.util.Date;
 
 public class App {
+
     public static List<Toys> toys_list;
     public static List<Toys> prize_list;
     public static void main(String[] args) throws Exception {

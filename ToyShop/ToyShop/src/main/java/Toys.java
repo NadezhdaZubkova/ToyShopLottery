@@ -76,7 +76,6 @@ public class Toys {
                 .append(" weight: %d; ")
                 .append(" bound: %d")
                 .toString(), id, name, count, weight, bound);
-
     }
 
 }
